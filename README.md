@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on project with FastApi
+- 🔭 I’m currently working on project with Python
 - 🌱 I’m currently learning python
 - 💬 Ask me on telegram @Sema_dm
 - 📫 How to reach me: semoyn49@gmail.com
